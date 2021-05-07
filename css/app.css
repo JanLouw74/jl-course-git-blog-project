@@ -56,7 +56,7 @@ p {
 }
 
 .page-header2 {
-    /***background-image: url('../img/headerimage.jpg');***/
+    background-image: url('../img/headerimage2.jpg');
     background-position: 50% 75%;
     background-size: cover;
     text-align: center;
