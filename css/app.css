@@ -63,7 +63,7 @@ h1 {
 }
 
 h1::after {
-    border: 5px solid #02ccba;
+    border: 5px solid #fdec02;
     border-radius: 50%;
     content: '';
     height: 15px;
